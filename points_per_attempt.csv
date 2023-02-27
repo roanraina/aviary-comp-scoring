@@ -1,0 +1,5 @@
+num_attempts,attempts_points,attempts
+Flash,500,1
+2nd try,250,2
+3rd try,100,3
+4+ tries,0,4
