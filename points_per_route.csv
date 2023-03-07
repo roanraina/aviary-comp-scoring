@@ -1,22 +1,30 @@
 anchor,colour,route_points
-1,Hand Crack,1000
 1,Green,800
 1,Yellow,1075
 2,Red,900
+2,Hand Crack,1000
+2,Lime,1100
 3,Orange,700
-3,White,1000
+3,White,975
 4,Black,1125
 4,Blue,1025
 5,Lime,900
 5,Purple,1200
-6,Pink,1000
-7,Black,700
+5,Orange,900
+6,Pink,1025
+6,Yellow,1200
+7,Black,800
 7,Red,1125
-8,White,1000
+7,Orange,1100
+8,White,1025
 8,Green,1200
+8,Lime,1025
+8,Blue,1100
 10,Blue,900
 10,Pink,1025
 10,Purple,600
 11,Green,1000
 12,Lime,800
 12,Black,1100
+12,Pink,1000
+12,White,700
